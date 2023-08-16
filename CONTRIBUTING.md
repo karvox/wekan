@@ -71,3 +71,5 @@ some contributors have direct commit access.
 Some contributors are mentioned at this outdated page:
 
 https://github.com/wekan/wekan/wiki/Team
+
+Judson Borges
